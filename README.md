@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mabdelba
-- 👀 I’m interested in Web developpement.
-- 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on C language/C++.
+- 👋 Hi, I’m Abdelbar Mohamed,
 - 📫 How to reach me : abdelbar.mohamed1998@gmail.com
 
 <!---
